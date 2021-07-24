@@ -1,0 +1,4 @@
+C:/Users/KKKZOZ/Desktop/Set/File-Transfer-System-master/server/cmake-build-debug/CMakeFiles/server.dir
+C:/Users/KKKZOZ/Desktop/Set/File-Transfer-System-master/server/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/KKKZOZ/Desktop/Set/File-Transfer-System-master/server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/KKKZOZ/Desktop/Set/File-Transfer-System-master/server/cmake-build-debug/CMakeFiles/server_autogen.dir
